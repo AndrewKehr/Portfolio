@@ -83,6 +83,6 @@ p {
 }
 
 .smaller {
-  max-width:200px;
+  width:30%;
   height:auto;
 }
